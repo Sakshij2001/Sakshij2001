@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 - 🌱 Graduate student exploring the endless possibilities of Computer Science.  
-- 💡 Turning ideas into impactful solutions with Python, Java, and Big Data.  
+- 💡 Thrive on solving complex coding problems, managing impactful projects, and uncovering insights from large data. 
 - 🚀 Always excited to learn, build, and collaborate on innovative projects.  
 - 📫 Let’s connect: [Portfolio](https://sakshipatel.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/sakshi-patel-087497227).  
 (❁´◡`❁)
