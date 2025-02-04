@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! I'm Sakshi👋
 
 - 🌱 Graduate student exploring the endless possibilities of Computer Science.  
 - 💡 Thrive on solving complex coding problems, managing impactful projects, and uncovering insights from large data. 
